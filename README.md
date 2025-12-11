@@ -10,8 +10,7 @@
 <a href="https://linkedin.com/in/luizafranca" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Luíza França" height="40" width="40" />
 </a>
-<br/>
-<br/>
+
 
 <h3>🛠️ Tecnologias & Ferramentas</h3>
 <p>
