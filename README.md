@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%9C;Frontend+Explorer+%F0%9F%8E%A8;Lifelong+Learner+%E2%9C%A8;Knowledge+Sharer+%F0%9F%9A%80" alt="Typing SVG" />
 </h3>
 
-<h5>🌐 Conecte-se Comigo</h5>
+<h3>🌐 Conecte-se Comigo</h3>
 <a href="https://linkedin.com/in/luizafranca" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Luíza França" height="40" width="40" />
 </a>
 <br/>
 <br/>
 
-<h5>🛠️ Tecnologias & Ferramentas</h5>
+<h3>🛠️ Tecnologias & Ferramentas</h3>
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
